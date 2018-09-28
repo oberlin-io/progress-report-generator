@@ -9,7 +9,7 @@ The project joins a student table, a skill bank table, and a proficiency table o
 
 The skill bank includes the learning goals per book and lesson and must start with a verb infinitive, for example a learning goal for pronoun referents may look like:
 
-> read a short paragraph containing pronoun references and supply the referent for a specific subject. The instructor reviewed the logic befind referents.
+> read a short paragraph containing pronoun references and supply the referent for a specific subject. The instructor reviewed the logic behind referents.
 
 The proficiency table includes a variety of subject-verb constructions per proficiency level, for example a -1 proficiency may read:
 
@@ -19,4 +19,4 @@ The student table includes a list of students, skills, and week dates. The user 
 
 Finally, the report tab takes the date and student ID to generate comments for each skill, combing learning goals and proficiency levels, for example:
 
-> Reading: The student struggles to read a short paragraph containing pronoun references and supply the referent for a specific subject. The instructor reviewed the logic befind referents.
+> Reading: The student struggles to read a short paragraph containing pronoun references and supply the referent for a specific subject. The instructor reviewed the logic behind referents.
